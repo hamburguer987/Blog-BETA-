@@ -2,6 +2,8 @@
 <html>
     <h1> Blog </h1>
     <body>  
+    <style> 
+    background-color: #1A2421	
 
     <ul> 
     <li> 
